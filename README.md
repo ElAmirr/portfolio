@@ -15,6 +15,7 @@ Chebbi Skander is a [3rd Year] student pursuing a financial license. With a pass
 5. [Achievements](#achievements)
 6. [Resume](#resume)
 7. [Contact](#contact)
+7. [Screenshots](#screen)
 
 ## Education
 
@@ -75,3 +76,12 @@ Feel free to reach out to Chebbi Skander. They are open to collaboration, networ
 ---
 
 Thank you for visiting Chebbi Skander's finance portfolio! For inquiries or collaboration opportunities, feel free to reach out.
+
+## Screenshots
+
+![Image](./screenshots/sshot1.png)
+![Image](./screenshots/sshot2.png)
+![Image](./screenshots/sshot3.png)
+![Image](./screenshots/sshot4.png)
+![Image](./screenshots/sshot5.png)
+![Image](./screenshots/sshot6.png)
